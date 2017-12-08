@@ -1,0 +1,19 @@
+.container{
+  position:relative;
+  width:600px;
+  margin-top: 50px;
+  margin-bottom:100;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+.btn {
+    background-color: #4CAF50; /* Green */
+    border:8px, solid black;
+    border-radius:8px;
+    padding: 10px 21px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
